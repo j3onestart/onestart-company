@@ -1,0 +1,7 @@
+/* 원스타트컴퍼니 브랜드 컬러 */
+:root {
+  --brand-blue: #0065b3;
+  --brand-blue-dark: #004f8a;
+  --brand-blue-light: #3d8dd4;
+  --brand-blue-lightest: #e6f2fa;
+}
