@@ -6,7 +6,7 @@
 
   <!-- 홈페이지 -->
   <url>
-    <loc>https://www.onestart-company.com/</loc>
+    <loc>https://www.onestart-company.co.kr/</loc>
     <lastmod>2025-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -14,7 +14,7 @@
 
   <!-- 회사소개 -->
   <url>
-    <loc>https://www.onestart-company.com/#about</loc>
+    <loc>https://www.onestart-company.co.kr/#about</loc>
     <lastmod>2025-11-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -22,7 +22,7 @@
 
   <!-- 사업소개 -->
   <url>
-    <loc>https://www.onestart-company.com/#services</loc>
+    <loc>https://www.onestart-company.co.kr/#services</loc>
     <lastmod>2025-11-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -30,7 +30,7 @@
 
   <!-- 성공사례 -->
   <url>
-    <loc>https://www.onestart-company.com/#cases</loc>
+    <loc>https://www.onestart-company.co.kr/#cases</loc>
     <lastmod>2025-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -38,7 +38,7 @@
 
   <!-- 고객후기 -->
   <url>
-    <loc>https://www.onestart-company.com/#testimonials</loc>
+    <loc>https://www.onestart-company.co.kr/#testimonials</loc>
     <lastmod>2025-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -46,7 +46,7 @@
 
   <!-- 상��신청 -->
   <url>
-    <loc>https://www.onestart-company.com/#contact</loc>
+    <loc>https://www.onestart-company.co.kr/#contact</loc>
     <lastmod>2025-11-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -54,7 +54,7 @@
 
   <!-- 블로그 -->
   <url>
-    <loc>https://www.onestart-company.com/#blog</loc>
+    <loc>https://www.onestart-company.co.kr/#blog</loc>
     <lastmod>2025-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
