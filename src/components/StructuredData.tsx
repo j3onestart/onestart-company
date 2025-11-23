@@ -9,7 +9,7 @@ export function StructuredData() {
       "name": "원스타트컴퍼니",
       "alternateName": "ONESTART COMPANY",
       "description": "중소기업 경영 컨설팅 전문 기업. 정부지원사업, 투자유치, 기업인증, 경영전략 수립 등 중소기업 성장을 위한 맞춤형 컨설팅 서비스 제공",
-      "url": "https://www.onestart-company.com",
+      "url": "https://www.onestart-company.co.kr",
       "telephone": "1800-5714",
       "email": "onestart-company@naver.com",
       "image": "https://images.unsplash.com/photo-1694702740570-0a31ee1525c7?w=800",
@@ -75,7 +75,7 @@ export function StructuredData() {
             "itemOffered": {
               "@type": "Service",
               "name": "정부 지원사업 컨설팅",
-              "description": "중소벤처기업부, 산업통상자원부 등 정부 지원사업 기획 및 신청 대행"
+              "description": "중소벤처기업부, 산업통상자원부 등 정부 지원사업 컨설팅"
             }
           },
           {
