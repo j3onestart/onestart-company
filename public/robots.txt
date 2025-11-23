@@ -18,4 +18,4 @@ Allow: /
 Crawl-delay: 1
 
 # Sitemap 위치
-Sitemap: https://www.onestart-company.com/sitemap.xml
+Sitemap: https://www.onestart-company.co.kr/sitemap.xml
