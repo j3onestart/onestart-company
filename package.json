@@ -54,8 +54,8 @@
     "@vitejs/plugin-react-swc": "^3.10.2",
     "vite": "6.3.5"
   },
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build"
+"scripts": {
+  "dev": "vite",
+  "build": "vite build && (cp -r public/* build/ || xcopy /E /I /Y public build)"
   }
 }
