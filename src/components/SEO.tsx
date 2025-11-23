@@ -14,7 +14,7 @@ export function SEO({
   description = '10년 경력의 중소기업 컨설팅 전문 기업. 정부지원사업, 투자유치, 기업인증, 경영전략 수립 등 중소기업 성장을 위한 맞춤형 컨설팅 서비스를 제공합니다. 무료상담 1800-5714',
   keywords = '중소기업 컨설팅, 정부지원사업, 투자유치, 사업계획서, 회사소개서, IR, 벤처기업인증, 이노비즈, 경영컨설팅, 기업컨설팅, 원스타트컴퍼니, 창업컨설팅, 소상공인지원, 스타트업컨설팅, 중소벤처기업부, 산업통상자원부, 정부지원금, 기업성장, 경영전략, 사업개발',
   ogImage = 'https://images.unsplash.com/photo-1694702740570-0a31ee1525c7?w=1200&h=630&fit=crop',
-  url = typeof window !== 'undefined' ? window.location.href : 'https://www.onestart-company.com',
+  url = typeof window !== 'undefined' ? window.location.href : 'https://www.onestart-company.co.kr',
 }: SEOProps) {
   return (
     <Helmet>
