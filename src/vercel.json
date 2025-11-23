@@ -1,6 +1,7 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "vite build && cp public/sitemap.xml build/sitemap.xml && cp public/robots.txt build/robots.txt",
   "outputDirectory": "build",
+  "installCommand": "npm install",
   "rewrites": [
     {
       "source": "/(.*)",
@@ -10,6 +11,14 @@
   "routes": [
     {
       "handle": "filesystem"
+    },
+    {
+      "src": "/sitemap.xml",
+      "dest": "/sitemap.xml"
+    },
+    {
+      "src": "/robots.txt",
+      "dest": "/robots.txt"
     },
     {
       "src": "/.*",
