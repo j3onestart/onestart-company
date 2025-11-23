@@ -56,6 +56,7 @@
   },
 "scripts": {
   "dev": "vite",
-  "build": "vite build && (cp -r public/* build/ || xcopy /E /I /Y public build)"
+  "build": "vite build && cp public/sitemap.xml build/sitemap.xml && cp public/robots.txt build/robots.txt"
+}
   }
 }
