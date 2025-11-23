@@ -63,7 +63,7 @@ export default defineConfig({
   },
   build: {
     target: 'esnext',
-    outDir: 'dist',
+    outDir: 'build',
   },
   publicDir: 'public',
   server: {
