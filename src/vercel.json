@@ -1,5 +1,15 @@
 {
   "outputDirectory": "build",
+  "routes": [
+    {
+      "src": "/sitemap.xml",
+      "dest": "/sitemap.xml"
+    },
+    {
+      "src": "/robots.txt",
+      "dest": "/robots.txt"
+    }
+  ],
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
