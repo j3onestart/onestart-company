@@ -1,13 +1,19 @@
 {
+  "buildCommand": "npm run build",
   "outputDirectory": "build",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
   "routes": [
     {
-      "src": "/sitemap.xml",
-      "dest": "/sitemap.xml"
+      "handle": "filesystem"
     },
     {
-      "src": "/robots.txt",
-      "dest": "/robots.txt"
+      "src": "/.*",
+      "dest": "/index.html"
     }
   ],
   "cleanUrls": true,
