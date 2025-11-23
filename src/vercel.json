@@ -1,16 +1,16 @@
 {
-  "rewrites": [
+  "routes": [
     {
-      "source": "/sitemap.xml",
-      "destination": "/sitemap.xml"
+      "src": "/sitemap.xml",
+      "dest": "/sitemap.xml"
     },
     {
-      "source": "/robots.txt",
-      "destination": "/robots.txt"
+      "src": "/robots.txt",
+      "dest": "/robots.txt"
     },
     {
-      "source": "/naverd3b1cb2bf511f39da98200b6a19addd5.html",
-      "destination": "/naverd3b1cb2bf511f39da98200b6a19addd5.html"
+      "src": "/naverd3b1cb2bf511f39da98200b6a19addd5.html",
+      "dest": "/naverd3b1cb2bf511f39da98200b6a19addd5.html"
     }
   ],
   "headers": [
