@@ -59,12 +59,15 @@ export function RenewalPopup() {
         <div className="p-6 space-y-4">
           <p className="text-center text-gray-700 leading-relaxed text-sm">
             <strong className="text-[#2E5C8A]">원스타트컴퍼니</strong> 홈페이지가<br />
-            더욱 편리하고 세련된 디자인으로<br />
-            새롭게 단장했습니다.
+            더욱 편리하고 세련된 디자인으로 새롭게 단장했습니다.
           </p>
 
           <p className="text-center text-xs text-gray-500">
-            앞으로도 최고의 서비스로 보답하겠습니다.
+            *기존 도메인(www.onestart-company.com)은<br />
+            당사와 무관하게 무분별한 사이트로 연결 되고 있는 불법사이트입니다.<br />
+            정확한 정보 및 정상적인 서비스 이용을 위해<br />
+            현재의 공식 홈페이지를 이용해 주시기 바랍니다.<br />
+            www.onestart-company.co.kr
           </p>
 
           {/* 버튼 영역 */}
